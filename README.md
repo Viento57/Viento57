@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viento57&label=Profile%20views&color=0e75b6&style=flat" alt="viento57" /> </p>
 
-- 🔭 I’m currently working on **web api restaurant**
-
 - 🌱 I’m currently learning **Nodejs,**
 
 - 💬 Ask me about **MERN**
